@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://alexnder6500.github.io/Blog-preview-card/
 
 
 ### Built with
@@ -53,6 +53,6 @@ I found Box shadow useful so i am refining and perfecting it.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Alexnder6500]https://www.frontendmentor.io/profile/Alexnder6500
+- Twitter - [@alex_crypto123](https://www.twitter.com/alex_crypto123)
 
