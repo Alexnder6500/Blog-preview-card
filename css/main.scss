@@ -14,7 +14,7 @@ body {
     margin: 50px auto;
     width: 320px;
 
-    height: 445px;
+    height: 450px;
     background-color: white;
     border: 1px;
     border-style: solid;
@@ -67,6 +67,7 @@ body {
     }
 
     p {
+        height: fit-content;
         padding: 16px 0 0;
         line-height: 22px;
         font-size: 15px;
@@ -76,16 +77,19 @@ body {
     .user {
         display: flex;
         gap: 10px;
+        padding: 1px;
 
 
         .pic {
-            height:30%;
+            padding-top: 12px;
+            width: 30px;
+            height: 30px;
+            align-items: center;
         }
 
-        h3 {
-            align-content: center;
+        h5 {
             font-size: 10px;
-            padding-top: 5px;
+            padding-top: 16px;
             font-weight: 800;
         
         }
