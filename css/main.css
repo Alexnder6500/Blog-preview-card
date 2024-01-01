@@ -1,0 +1,79 @@
+* {
+  max-width: 1440px;
+  height: 80px;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Figtree", sans-serif;
+}
+
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+
+.container {
+  margin: 50px auto;
+  width: 320px;
+  height: 445px;
+  background-color: white;
+  border: 1px;
+  border-style: solid;
+  border-radius: 0.9rem;
+  border-color: black;
+  padding: 16px;
+  box-shadow: 10px 10px rgb(0, 0, 0);
+}
+.container .illustration {
+  width: 319px;
+  height: 200px;
+  border-radius: 1rem;
+  margin-bottom: 10px;
+}
+.container .btn {
+  background-color: hsl(47, 88%, 63%);
+  width: 70px;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 9px;
+  border: 1px;
+  border-radius: 0.3rem;
+  border-color: black;
+  font-weight: bold;
+}
+.container h4 {
+  padding: 16px 0;
+  font-size: 13px;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.container h1 {
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.container h1 a {
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+  font-size: 19.5px;
+}
+.container h1 a:hover {
+  color: hsl(47, 88%, 63%);
+}
+.container p {
+  padding: 16px 0 0;
+  line-height: 22px;
+  font-size: 15px;
+  color: hsl(0, 0%, 50%);
+}
+.container .user {
+  display: flex;
+  gap: 10px;
+}
+.container .user .pic {
+  height: 30%;
+}
+.container .user h3 {
+  align-content: center;
+  font-size: 10px;
+  padding-top: 5px;
+  font-weight: 800;
+}/*# sourceMappingURL=main.css.map */
